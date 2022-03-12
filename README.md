@@ -33,7 +33,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/nolan/64/sql.png"/>
+<img align="left" src="https://img.icons8.com/nolan/48/sql.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/sitecore--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
