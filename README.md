@@ -4,7 +4,7 @@
 
 ## I'm interested in health/fitness, investing/trading crypto, software development and entrepreneurship!!
 
--   🔭 Check out my new venture: [Grasp][grasp]!
+-   🔭 Check out my new personal project: [Grasp][grasp]!
 -   🔭 Check out my software consulting biz: [Twofold][twofold]!
 -   🌱 I’m currently focusing on fullstack development using Next.js
 -   ⚡ I'm building Grasp with typescript so I'm in the process of becoming more comfortable with that
