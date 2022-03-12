@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daksmitty?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdaksmitty&screen_name=daksmitty)
 
-## I'm interested in health/fitness, investing/trading crypto, software development and entrepreneurship!!
+## I'm interested in health/fitness, software development and entrepreneurship! I'm also interested in investing/trading and helping build in the crypto space!
 
 -   🔭 Check out my new personal project: [Grasp][grasp]!
 -   🔭 Check out my software consulting biz: [Twofold][twofold]!
