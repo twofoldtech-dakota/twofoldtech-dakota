@@ -8,6 +8,7 @@
 -   🔭 Check out my software consulting biz: [Twofold][twofold]!
 -   🌱 I’m currently focusing on fullstack development using Next.js
 -   ⚡ I'm building Grasp with typescript so I'm in the process of becoming more comfortable with that
+-   ⚡ I've been a full stack dev for 10 years with most of that time spent working with the Microsoft .NET framework. The past 2 years have been much more focused on full stack development with javascript frameworks
 -   🥅 Current 2022 Goal: Launch Grasp
 
 ### Connect with me:
