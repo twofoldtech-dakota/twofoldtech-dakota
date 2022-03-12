@@ -23,14 +23,14 @@
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
