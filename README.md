@@ -48,12 +48,12 @@
 <img align="left" src="https://img.icons8.com/ios-filled/48/000000/console.png"/>
 <img align="left" src="https://img.icons8.com/windows/48/000000/umbraco.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/unicorn--v1.png"/>
-<!-- <img align="left" width="48px" height="48px" src="http://www.glass.lu/-/media/Images/Common/Horizon-Bordered-BlazeOrange-2503ca73ca7.png?h=50&w=50&la=en&hash=C5F3C6D5FCB00EBE826D80BE26742A4D078D12D4tds" />
+<img align="left" width="48px" height="48px" src="http://www.glass.lu/-/media/Images/Common/Horizon-Bordered-BlazeOrange-2503ca73ca7.png?h=50&w=50&la=en&hash=C5F3C6D5FCB00EBE826D80BE26742A4D078D12D4tds" />
 <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/120px-.NET_Logo.svg.png" />
 <img align="left" width="48px" height="48px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
 <img align="left" width="48px" height="48px" src="https://logowik.com/content/uploads/images/vercel1868.jpg" />
 <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" />
-<img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Epi-logo-red-square.jpeg/220px-Epi-logo-red-square.jpeg" /> -->
+<img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Epi-logo-red-square.jpeg/220px-Epi-logo-red-square.jpeg" />
 
 <br />
 <br />
