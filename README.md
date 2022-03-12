@@ -55,10 +55,6 @@
 <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" />
 <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Epi-logo-red-square.jpeg/220px-Epi-logo-red-square.jpeg" />
 
----
-
-\
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
