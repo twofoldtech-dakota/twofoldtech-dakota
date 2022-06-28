@@ -13,14 +13,10 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/daksmitty#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/daksmitty#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dakota-smith-a855b230#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dakota-smith-a855b230#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/grasp_crypto#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/grasp_crypto#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
