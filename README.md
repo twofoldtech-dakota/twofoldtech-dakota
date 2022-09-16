@@ -1,6 +1,6 @@
 # Hi , I'm Dakota 👋
 
-## I'm interested in health/fitness, software development and entrepreneurship! I'm also interested in investing/trading and building in the crypto space!
+## I'm interested in health/fitness, software development and entrepreneurship!
 
 -   🔭 Check out my new personal project: [Grasp][grasp]!
 -   🔭 Check out my software consulting biz: [Twofold][twofold]!
