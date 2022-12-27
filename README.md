@@ -82,7 +82,7 @@
 </details>
 
 [twofold]: https://www.twofold.tech/
-[grasp]: https://www.graspcrypto.io/
+[grasp]: #
 [twitter]: https://twitter.com/daksmitty
 [grasptwitter]: https://twitter.com/graspcrypto
 [instagram]: https://www.instagram.com/grasp_crypto/
