@@ -4,9 +4,7 @@
 
 -   🔭 Check out my software consulting biz: [Twofold][twofold]!
 -   🌱 I'm learning Svelte and building everything I can with typescript
--   ⚡ I've been a full stack dev for 10 years with most of that time spent working with the Microsoft .NET framework. The past 2 years have been much more focused on full stack development with javascript frameworks
--   🥅 Current 2023 Goal: twofold.tech re-design using next.js or sveltekit
--   🥅 Current 2023 Goal: launch SAAS company
+-   ⚡ I've been a full stack dev for 10 years with most of that time spent working with the Microsoft .NET framework.
 
 ### Connect with me:
 
