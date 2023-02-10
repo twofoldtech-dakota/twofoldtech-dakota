@@ -2,9 +2,9 @@
 
 ## I'm interested in health/fitness, software development and entrepreneurship!
 
--   🔭 Check out my software consulting biz: [Twofold][twofold]!
--   🌱 I'm learning Svelte and building everything I can with typescript
--   ⚡ I've been a full stack dev for 10 years with most of that time spent working with the Microsoft .NET framework.
+-   🔭 My software consulting biz: [Twofold][twofold]!
+-   🌱 Using typescript as much as possible
+-   ⚡ Full stack dev for 10 years 
 
 ### Connect with me:
 
