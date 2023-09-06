@@ -4,7 +4,7 @@
 
 -   🔭 My software consulting biz: [Twofold][twofold]!
 -   🌱 Using typescript as much as possible
--   ⚡ Full stack dev for 10 years 
+-   ⚡ Full stack dev for 11 years 
 
 ### Connect with me:
 
