@@ -3,8 +3,8 @@
 ## I'm interested in health/fitness, software development and entrepreneurship!
 
 -   🔭 My software consulting biz: [Twofold][twofold]!
+-   📰 My Sitecore Blog [Blog]!
 -   🌱 Using typescript as much as possible
--   📰 My Sitecore Blog [Blog]
 -   ⚡ Full stack dev for 12 years 
 
 ### Connect with me:
