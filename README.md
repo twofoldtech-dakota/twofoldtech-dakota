@@ -4,7 +4,8 @@
 
 -   🔭 My software consulting biz: [Twofold][twofold]!
 -   🌱 Using typescript as much as possible
--   ⚡ Full stack dev for 11 years 
+-   📰 My Sitecore Blog [Blog]
+-   ⚡ Full stack dev for 12 years 
 
 ### Connect with me:
 
@@ -84,3 +85,4 @@
 [grasptwitter]: https://twitter.com/graspcrypto
 [instagram]: https://www.instagram.com/grasp_crypto/
 [linkedin]: https://www.linkedin.com/in/dakota-smith-a855b230/
+[blog]: https://sitecore-bits.vercel.app/
