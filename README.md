@@ -25,6 +25,7 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,6 +35,7 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -41,6 +43,7 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
 ![Coveo](https://img.shields.io/badge/Coveo-FF6E42?style=flat-square&logoColor=white)
 
@@ -54,12 +57,13 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 
 ## Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| Sitecore XM Cloud Certified Developer | Sitecore |
-| Sitecore 9 Certified Developer | Sitecore |
-| Microsoft Certified Professional | Microsoft |
-| Microsoft Certified Technology Specialist | Microsoft |
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| Sitecore XM Cloud Certified Developer | Sitecore | ✓ |
+| Sitecore 9 Certified Developer | Sitecore | ✓ |
+| Microsoft Certified Professional | Microsoft | ✓ |
+| Microsoft Certified Technology Specialist | Microsoft | ✓ |
+| Shopify Developer Certification | Shopify | In Progress |
 
 ---
 
@@ -73,20 +77,6 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 2014 - 2016      Fullstack Engineer @ AJi Software
 2012 - 2013      Fullstack Engineer @ Roundedcube
 ```
-
----
-
-## Featured Work
-
-**McCormick** — Full stack support for 33 global e-commerce websites under a complex Sitecore instance with multi-language support and ADA compliance.
-
-**H.B. Fuller** — Led offshore development team, architected new features, and implemented Coveo search with custom indexing and UI/UX handling.
-
-**Continuum** — Architected and led development of a full-stack NextJS SaaS application for real estate CE tracking with Prisma, PostgreSQL, and Auth.js.
-
-**Tektronix** — Developed the first Sitecore instance hosted behind China's firewall with Gigya integration and custom product import pipelines.
-
-**Feed My Starving Children** — Built custom registration system, user dashboards with analytical data visualization, and data warehouse integration.
 
 ---
 
