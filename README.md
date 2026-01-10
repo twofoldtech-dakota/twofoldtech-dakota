@@ -91,14 +91,4 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 
 ---
 
-<details>
-<summary><strong>GitHub Stats</strong></summary>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twofoldtech-dakota&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=FF5722&bg_color=0d1117&text_color=c9d1d9)
-
-</details>
-
----
-
 <sub>Open to consulting opportunities and technical leadership roles. [Let's connect →](https://www.linkedin.com/in/dakota-smith-a855b230)</sub>
