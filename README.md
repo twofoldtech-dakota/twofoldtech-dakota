@@ -1,88 +1,116 @@
-# Hi , I'm Dakota 👋
+# Dakota Smith
 
-## I'm interested in health/fitness, software development and entrepreneurship!
+**Senior Fullstack Engineer & Tech Lead** · Kansas City, MO
 
--   🔭 My software consulting biz: [Twofold][twofold]!
--   📰 My Sitecore [Blog]!
--   🌱 Using typescript as much as possible
--   ⚡ Full stack dev for 12 years 
-
-### Connect with me:
-
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dakota-smith-a855b230#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dakota-smith-a855b230#gh-dark-mode-only)
-
-
-### Languages and Tools:
-
-  <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/sass.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img align="left" src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img align="left" src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
-  <img align="left" src="https://img.icons8.com/nolan/48/sql.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/sitecore--v1.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img align="left" src="https://img.icons8.com/nolan/48/api-settings.png"/>
-  <img align="left" src="https://img.icons8.com/windows/48/000000/sourcetree.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img align="left" src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/powershell.png"/>
-  <img align="left" src="https://img.icons8.com/ios-filled/48/000000/console.png"/>
-  <img align="left" src="https://img.icons8.com/windows/48/000000/umbraco.png"/>
-  <img align="left" src="https://img.icons8.com/color/48/000000/unicorn--v1.png"/>
-  <img align="left" width="48px" height="48px" src="http://www.glass.lu/-/media/Images/Common/Horizon-Bordered-BlazeOrange-2503ca73ca7.png?h=50&w=50&la=en&hash=C5F3C6D5FCB00EBE826D80BE26742A4D078D12D4tds" />
-  <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/120px-.NET_Logo.svg.png" />
-  <img align="left" width="48px" height="48px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
-  <img align="left" width="48px" height="48px" src="https://logowik.com/content/uploads/images/vercel1868.jpg" />
-  <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" />
-  <img align="left" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Epi-logo-red-square.jpeg/220px-Epi-logo-red-square.jpeg" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-smith-a855b230)
+[![TwofoldTech](https://img.shields.io/badge/TwofoldTech-FF5722?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.twofold.tech/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)](https://sitecore-bits.vercel.app/)
 
 ---
 
-### 📕 Latest Blog Posts
+## About
 
-<!-- BLOG-POST-LIST:START -->
+Full Stack Developer with **13+ years** of enterprise web development experience. Founder of **TwofoldTech**, where I lead technical strategy and deliver high-impact solutions for clients across industries. Proven track record of architecting solutions, leading development teams, and shipping **30+ enterprise projects** to production.
 
--   [What's new in Sitecore 9.3 - Horizon UI](https://www.twofold.tech/post/whats-new-in-sitecore-9-3-horizon-ui)
--   [Increase website performance by Image Optimization](https://www.twofold.tech/post/increase-website-performance-by-image-optimization)
--   [How to increase performance of your Sitecore website](https://www.twofold.tech/post/how-to-increase-performance-of-your-sitecore-website)
--   [7 Tips for Remote Work](https://www.twofold.tech/post/7-tips-for-remote-work)
-<!-- BLOG-POST-LIST:END -->
+Currently building modern web experiences with **NextJS**, **React**, and **TypeScript** while maintaining deep expertise in enterprise CMS platforms including **Sitecore**, **Umbraco**, and **Optimizely**.
 
-➡️ [see all...](https://www.twofold.tech/team/dakota-smith)
+---
+
+## Expertise
+
+### Enterprise CMS
+![Sitecore](https://img.shields.io/badge/Sitecore-EB1F1F?style=flat-square&logo=sitecore&logoColor=white)
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat-square&logo=umbraco&logoColor=white)
+![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat-square&logo=optimizely&logoColor=white)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data & Search
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
+![Coveo](https://img.shields.io/badge/Coveo-FF6E42?style=flat-square&logoColor=white)
+
+### DevOps & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| Sitecore XM Cloud Certified Developer | Sitecore |
+| Sitecore 9 Certified Developer | Sitecore |
+| Microsoft Certified Professional | Microsoft |
+| Microsoft Certified Technology Specialist | Microsoft |
+
+---
+
+## Career Highlights
+
+```
+2023 - Present   Senior Fullstack Engineer @ RBA Consulting
+2020 - Present   Founder & Tech Lead @ TwofoldTech
+2019 - 2020      Senior Fullstack Engineer @ XCentium
+2016 - 2019      Senior Fullstack Engineer @ Aware
+2014 - 2016      Fullstack Engineer @ AJi Software
+2012 - 2013      Fullstack Engineer @ Roundedcube
+```
+
+---
+
+## Featured Work
+
+**McCormick** — Full stack support for 33 global e-commerce websites under a complex Sitecore instance with multi-language support and ADA compliance.
+
+**H.B. Fuller** — Led offshore development team, architected new features, and implemented Coveo search with custom indexing and UI/UX handling.
+
+**Continuum** — Architected and led development of a full-stack NextJS SaaS application for real estate CE tracking with Prisma, PostgreSQL, and Auth.js.
+
+**Tektronix** — Developed the first Sitecore instance hosted behind China's firewall with Gigya integration and custom product import pipelines.
+
+**Feed My Starving Children** — Built custom registration system, user dashboards with analytical data visualization, and data warehouse integration.
+
+---
+
+## Latest Articles
+
+- [What's new in Sitecore 9.3 - Horizon UI](https://www.twofold.tech/post/whats-new-in-sitecore-9-3-horizon-ui)
+- [Increase website performance by Image Optimization](https://www.twofold.tech/post/increase-website-performance-by-image-optimization)
+- [How to increase performance of your Sitecore website](https://www.twofold.tech/post/how-to-increase-performance-of-your-sitecore-website)
+- [7 Tips for Remote Work](https://www.twofold.tech/post/7-tips-for-remote-work)
+
+➡️ [View all articles](https://www.twofold.tech/team/dakota-smith)
 
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary><strong>GitHub Stats</strong></summary>
+<br>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=twofoldtech-dakota&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twofoldtech-dakota&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=FF5722&bg_color=0d1117&text_color=c9d1d9)
 
 </details>
 
-[twofold]: https://www.twofold.tech/
-[grasp]: #
-[twitter]: https://twitter.com/daksmitty
-[grasptwitter]: https://twitter.com/graspcrypto
-[instagram]: https://www.instagram.com/grasp_crypto/
-[linkedin]: https://www.linkedin.com/in/dakota-smith-a855b230/
-[blog]: https://sitecore-bits.vercel.app/
+---
+
+<sub>Open to consulting opportunities and technical leadership roles. [Let's connect →](https://www.linkedin.com/in/dakota-smith-a855b230)</sub>
