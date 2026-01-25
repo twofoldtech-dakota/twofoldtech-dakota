@@ -80,15 +80,5 @@ Full Stack Developer with **14 years** of enterprise web development experience.
 
 ---
 
-## Latest Articles
 
-- [What's new in Sitecore 9.3 - Horizon UI](https://www.twofold.tech/post/whats-new-in-sitecore-9-3-horizon-ui)
-- [Increase website performance by Image Optimization](https://www.twofold.tech/post/increase-website-performance-by-image-optimization)
-- [How to increase performance of your Sitecore website](https://www.twofold.tech/post/how-to-increase-performance-of-your-sitecore-website)
-- [7 Tips for Remote Work](https://www.twofold.tech/post/7-tips-for-remote-work)
-
-➡️ [View all articles](https://www.twofold.tech/team/dakota-smith)
-
----
-
-<sub>Open to consulting opportunities and technical leadership roles. [Let's connect →](https://www.linkedin.com/in/dakota-smith-a855b230)</sub>
+<sub>[Let's connect →](https://www.linkedin.com/in/dakota-smith-a855b230)</sub>
