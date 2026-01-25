@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-smith-a855b230)
 [![TwofoldTech](https://img.shields.io/badge/TwofoldTech-FF5722?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.twofold.tech/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)]
-(https://dak-dev.vercel.app/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)](https://dak-dev.vercel.app/)
 
 ---
 
