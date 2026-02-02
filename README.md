@@ -1,6 +1,6 @@
 # Dakota Smith
 
-**Senior Fullstack Engineer** · Kansas City, MO
+**Full Stack Architect** · Kansas City, MO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-smith-a855b230)
 [![TwofoldTech](https://img.shields.io/badge/TwofoldTech-FF5722?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.twofold.tech/)
@@ -10,7 +10,7 @@
 
 ## About
 
-Full Stack Developer with **14 years** of enterprise web development experience. Founder of **TwofoldTech**, where I lead technical strategy and deliver high-impact solutions for clients across industries. Proven track record of architecting solutions, leading development teams, and shipping **30+ enterprise projects** to production.
+Full Stack Developer with **15 years** of enterprise web development experience. Founder of **TwofoldTech**, where I lead technical strategy and deliver high-impact solutions for clients across industries. Proven track record of architecting solutions, leading development teams, and shipping **30+ enterprise projects** to production.
 
 ---
 
