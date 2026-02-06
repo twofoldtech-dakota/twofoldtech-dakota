@@ -8,12 +8,6 @@
 
 ---
 
-## About
-
-Full Stack Developer with **15 years** of enterprise web development experience. Founder of **TwofoldTech**, where I lead technical strategy and deliver high-impact solutions for clients across industries. Proven track record of architecting solutions, leading development teams, and shipping **30+ enterprise projects** to production.
-
----
-
 ## Expertise
 
 ### Enterprise CMS
